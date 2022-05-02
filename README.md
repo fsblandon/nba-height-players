@@ -5,7 +5,8 @@ The complexity of algorithm to resolve the search funcion - getPlayerSearched() 
 ## Instructions:
 1. Clone the repository: `git clone https://github.com/fsblandon/nba-height-players.git`
 2. Open repository locally: `cd nba-height-players`
-3. Run the application on DEV: `ng serve`
-4. Run the tests via Karma: `ng test`
+3. Install Node Modules: `npm install --save`
+4. Run the application on DEV: `ng serve`
+5. Run the tests via Karma: `ng test`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
